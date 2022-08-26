@@ -1,5 +1,5 @@
 # PotPlayerSkins
-Some PotPlayer skins that I made in the past.
+Some modified default PotPlayer skins that I made in the past.<br>
 Uploading these now even though I'm not using PotPlayer primarily anymore.
 
 [Light (color-inverted) default skin](https://github.com/Ingan121/PotPlayerSkins/raw/main/DefaultLight.dsf)<br>
